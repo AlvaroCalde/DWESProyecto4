@@ -1,0 +1,9 @@
+# Ignorar solo la configuración privada de NetBeans
+nbproject/private/
+nbproject/
+
+# Ignorar carpetas de compilación de NetBeans (opcional pero recomendado)
+build/
+nbbuild/
+dist/
+nbdist/
